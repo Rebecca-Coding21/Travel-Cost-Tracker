@@ -1,5 +1,8 @@
 # Travel Cost Tracker
-#### Video Demo:
+
+![Logo_small](https://github.com/Rebecca-Coding21/Travel-Cost-Tracker/assets/94243632/e89d5023-d599-4102-a2f3-a93ebcd86c04)
+
+#### Video Demo: https://www.youtube.com/watch?v=GD9rrEy3XZk
 
 #### Description:
 The Travel Cost Tracker is a console application to track travel costs in any currency and automatically convert the costs into euro (EUR). This is very useful to track all costs while traveling and directly know their value in your home currency.
@@ -11,6 +14,8 @@ With help of the fpdf2-library a pdf-file called "travel_costs.pdf" can be creat
 
 #### Design Choices:
 The design of the pdf-file that can be created is kept simple and clear. The unique app logo gives it a individual touch. Through the clearness of the table, all costs can be quickly overviewed.
+
+![image](https://github.com/Rebecca-Coding21/Travel-Cost-Tracker/assets/94243632/1768f605-0ab2-4dda-b7de-ddc763625605)
 
 #### Important Information:
 To use the application you need to generate your own API key on rapid API and exchange it with the current API key.
