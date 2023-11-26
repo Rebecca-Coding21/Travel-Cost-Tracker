@@ -1,4 +1,4 @@
-# Travel-Cost-Checker
+# Travel Cost Tracker
 #### Video Demo:
 #### Description:
 The Travel Cost Checker is a console applicationto track travel costs in any currency and automatically convert the cost into euro (EUR). This is very useful to track all costs while traveling and directly know their value in your home currency.
